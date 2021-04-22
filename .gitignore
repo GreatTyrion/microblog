@@ -6,3 +6,6 @@ logs/
 
 *.db
 
+# Translations
+*.pot
+*.mo
